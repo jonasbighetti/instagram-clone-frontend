@@ -1,3 +1,7 @@
+## Instagram Clone - Frontend
+
+Projeto desenvolvido a partir do curso *Semana OmniStack 7* da [Rocketseat](https://rocketseat.com.br/), utilizando as tecnologias Node.js, React e React Native.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
